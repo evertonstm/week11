@@ -51,3 +51,4 @@ typings/
 .npm
 
 tmp/uploads
+db.sqlite
